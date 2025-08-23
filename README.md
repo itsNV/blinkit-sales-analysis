@@ -23,7 +23,8 @@ Python libraries :
 
     - Insight: Majority of sales come from Low Fat items.
 
-(Insert pie chart image here)
+   ![Total Sales by Fat Content](images/total_sales_by_fat_content.png)
+
 
 ### Total Sales by Item Type
 
