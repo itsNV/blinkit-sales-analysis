@@ -10,10 +10,10 @@ Python libraries :
 
 ## Key Findings (KPIs)
 
-    - **Total Sales:** 1,201,681.49 – Total revenue generated during the analyzed period.
-    - **Average Sales:** 140.99 – Average sales per transaction/item.
-    - **Number of Items Sold:** 8523 – Total items analyzed in the dataset.
-    - **Average Ratings:** 3.99 – Mean customer rating across all items.
+   - **Total Sales:** 1,201,681.49 – Total revenue generated during the analyzed period.
+   - **Average Sales:** 140.99 – Average sales per transaction/item.
+   - **Number of Items Sold:** 8523 – Total items analyzed in the dataset.
+   - **Average Ratings:** 3.99 – Mean customer rating across all items.
 
 ## Charts
 
