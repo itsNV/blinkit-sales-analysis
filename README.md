@@ -23,7 +23,7 @@ Python libraries :
 
     - Insight: Majority of sales come from Low Fat items.
 
-   ![Total Sales by Fat Content](Images/Total_Sales.png)
+   ![Total Sales by Fat Content](Images/Total_Sales_By_Fat_Content.png)
 
 
 ### Total Sales by Item Type
@@ -32,13 +32,15 @@ Python libraries :
 
     - Helps identify the best-performing item types.
 
-(Insert bar chart image here)
+ ![Total Sales by Item Type](Images/Total_Sales_By_Item_Type.png)
+ 
 
 ### Fat Content by Outlet for Total Sales
 
     - Displays sales contribution of different fat content categories across outlet locations.
 
-(Insert grouped bar chart image here)
+![Fat Content by Outlet for Total Sales](Images/Fat_Content_By_Outlet_for_Total_Sales.png)
+
 
 ### Total Sales by Outlet Establishment Year
 
@@ -46,16 +48,18 @@ Python libraries :
 
     - Useful for identifying high-performing store age groups.
 
-(Insert line chart image here)
+![Total Sales by Outlet Establishment Year](Images/Total_Sales_By_Outlet_Establishment.png)
+
 
 ### Percentage of Sales by Outlet Size
 
-    - Pie chart showing sales share by outlet size (Small, Medium, Large).
+    - showing sales share by outlet size (Small, Medium, Large).
 
-(Insert pie chart image here)
+![Percentage of Sales by Outlet Size](Images/Sales_By_Outlet_Size.png)
+
 
 ### Sales by Outlet Location Type
 
-    - Bar chart highlighting sales performance by urban/rural/tier locations.
+    - highlighting sales performance by urban/rural/tier locations.
 
-(Insert bar chart image here)
+![Sales by Outlet Location Type](Images/Sales_By_Outlet_Location_Type.png)
